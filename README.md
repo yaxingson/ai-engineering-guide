@@ -14,4 +14,22 @@
 ### Isolation
 
 
+## Strategy
+
+### Sequential
+
+
+### Sliding Window
+
+
+### Summarization
+
+
+### Retrieval Based
+
+
+### Transformer
+
+
+
 
