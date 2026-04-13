@@ -10,15 +10,32 @@
 
 - [Zero Shot Prompting](./notebooks/prompt-engineering/techniques/zero-shot-prompting.ipynb)
 - [Few Shot Prompting](./notebooks/prompt-engineering/techniques/few-shot-prompting.ipynb)
-- [Self Consistency](./notebooks/prompt-engineering/techniques/self-consistency.ipynb)
-- [Prompt Chaining](./notebooks/prompt-engineering/techniques/prompt-chaining.ipynb)
+- [Self-Consistency and Multiple Paths of Reasoning](./notebooks/prompt-engineering/techniques/self-consistency.ipynb)
+- [Prompt Chaining and Sequencing](./notebooks/prompt-engineering/techniques/prompt-chaining.ipynb)
 - [Chain Of Thought Prompting](./notebooks/prompt-engineering/techniques/chain-of-thought-prompting.ipynb)
+- [Constrained and Guided Generation]()
+- [Role Prompting]()
+- [Embedding Data]()
+- [Citations]()
+- [Programmatic Consumption]()
+
 
 #### 进阶用法
 
 - [Function Calling](./notebooks/prompt-engineering/advanced/function-calling.ipynb)
 - [Generating Data](./notebooks/prompt-engineering/advanced/generating-data.ipynb)
 - [Generating Code](./notebooks/prompt-engineering/advanced/generating-code.ipynb)
+- [Task Decomposition]()
+- [Instruction Engineering]()
+- [Prompt Optimization]()
+- [Handling Ambiguity and Improving Clarity]()
+- [Prompt Length and Complexity Management]()
+- [Negative Prompting and Avoiding Undesired Outputs]()
+- [Prompt Formatting and Structure]()
+- [Prompts for Specific Tasks]()
+- [Multilingual and Cross-lingual Prompting]()
+- [Evaluating Prompt Effectiveness]()
+- [Fine Tuning]()
 
 #### 提示词集合
 
@@ -29,6 +46,9 @@
 - [Information Extraction](./notebooks/prompt-engineering/hub/information-extraction.ipynb)
 
 #### 风险和误用
+
+- [Ethical Considerations]()
+- [Prompt Security and Safety]()
 
 ### 上下文工程
 
