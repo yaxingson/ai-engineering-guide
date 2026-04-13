@@ -1,6 +1,6 @@
 # AI工程入门
 
-## 工程
+## 工程清单
 
 ### 提示词工程
 
@@ -19,7 +19,6 @@
 - [Function Calling](./notebooks/prompt-engineering/advanced/function-calling.ipynb)
 - [Generating Data](./notebooks/prompt-engineering/advanced/generating-data.ipynb)
 - [Generating Code](./notebooks/prompt-engineering/advanced/generating-code.ipynb)
-
 
 #### 提示词集合
 
@@ -72,6 +71,10 @@
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
+- [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering)
+- [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+- [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding)
 
 ## 许可证
 
